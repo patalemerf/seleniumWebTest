@@ -1,4 +1,5 @@
-# Projeto de Automação de Testes da Loginha com JUnit e WebDriver
+# Lojinha WEB Automação com JUnit e WebDriver
+Esse é um repisitório que contém alguns testes de API Rest de um software denominado Lojinha. Os sub tópicos abaixo descreve algumas decisões tomadas na estruturação do projeto.
 
 ## Descrição
 Este projeto utiliza JUnit e Selenium WebDriver para automatizar testes de aplicações web, validando interações e comportamentos da interface.
