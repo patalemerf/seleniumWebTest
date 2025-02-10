@@ -13,7 +13,14 @@ Java JDK 11+
 Maven 3.6+
 WebDriver (ChromeDriver)
 
-## Executando os Testes
-Use o comando:
+## Guia de instalação
+Para executar os testes siga o passo a passo a seguir:
 
+Clone este repositório
+`git clone https://github.com/patalemerf/seleniumWebTest.git`
+
+Instale as dependências
+`mvn install`
+
+Execute os testes
 `mvn test`
